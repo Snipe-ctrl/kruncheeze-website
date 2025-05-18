@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link"
 import { useState } from "react"
 import { Menu, X } from "lucide-react"
@@ -11,7 +12,11 @@ export default function Navbar() {
         <header className="bg-yellow-400 py-4 px-6 shadow-md">
           <div className="container mx-auto flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-black">KrunCheeze</span>
+              <Image
+                src="/images/kruncheeze-wordmark.png"
+                alt="KrunCheeze Logo"
+                width={150}
+                height={100}/>
             </Link>
     
             {/* Desktop Navigation */}
