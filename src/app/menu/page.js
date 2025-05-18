@@ -17,7 +17,7 @@ export default function MenuPage() {
               <div className="w-full border-t border-yellow-300"></div>
             </div>
             <div className="relative flex justify-center">
-              <div className="bg-yellow-400 text-black px-8 py-2 text-xl font-bold uppercase tracking-wider">
+              <div className="bg-yellow-400 text-black px-8 py-2 text-xl font-bold uppercase tracking-wider inline-block text-center">
                 Grilled Cheeze Sandwhiches
               </div>
             </div>
