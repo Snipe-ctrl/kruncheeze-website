@@ -3,7 +3,7 @@ import "./globals.css";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 
-const inter = Inter({ subsets: [":latin"]})
+const inter = Inter({ subsets: ['cyrillic']})
 
 export const metadata = {
   title: "KrunCheeze Food Truck",
