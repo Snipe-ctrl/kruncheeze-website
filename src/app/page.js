@@ -44,7 +44,7 @@ export default function Home() {
               </p>
               <p className="text-gray-700 mb-4">
                 We use only the finest ingredients, artisanal breads, and a variety of premium cheeses to create the
-                perfect melty masterpiece. From classic grilled cheese to gourmet combinations, we've got something for
+                perfect melty masterpiece. From classic grilled cheese to gourmet combinations, we&apos;ve got something for
                 everyone.
               </p>
               <p className="text-gray-700 mb-6">
@@ -250,7 +250,7 @@ export default function Home() {
             <div className="bg-white p-6 rounded-lg shadow-md mb-8">
               <h3 className="text-xl font-bold mb-4">Buy 10 Sandwiches, Get One FREE!</h3>
               <p className="mb-4">
-                Ask for a loyalty card at your next visit. We'll punch it each time you purchase a sandwich, and your
+                Ask for a loyalty card at your next visit. We&apos;ll punch it each time you purchase a sandwich, and your
                 11th one is on us!
               </p>
               <div className="flex justify-center">
